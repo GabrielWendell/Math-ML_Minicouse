@@ -1,4 +1,4 @@
-# 🧠 Mathematical Foundations of Machine Learning — Course Agenda
+# 🧠 Mathematical Foundations of Machine Learning : Course Agenda
 
 📅 **Duration**: 11 Days  
 🧑‍🏫 **Instructor**: Gabriel Wendell Celestino Rocha  

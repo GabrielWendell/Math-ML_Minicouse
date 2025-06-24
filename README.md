@@ -17,7 +17,7 @@ This is a theoretical course focused exclusively on the **mathematical principle
 
 ## 🗓️ Course Schedule
 
-See the [PDF with full schedule](./slides/schedule.pdf) for detailed day-by-day topics.
+See the [full schedule](https://github.com/GabrielWendell/Math-ML_Minicouse/blob/main/Utils/Agenda.md) for detailed day-by-day topics.
 
 ## 📁 Structure
 

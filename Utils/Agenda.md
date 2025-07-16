@@ -24,13 +24,13 @@
 |            | Aula 12 | Statistical Learning Theory                         |
 | 7 (09/07)  | Aula 13 | Linear Regression for Regression and Classification |
 |            | Aula 14 | Linear Regression for Regression and Classification |
-| 8 (14/07)  | Aula 15 | Bias and Variance                                   |
+| 8 (16/07)  | Aula 15 | Bias and Variance                                   |
 |            | Aula 16 | Bias and Variance                                   |
-| 9 (16/07)  | Aula 17 | Neural Networks                                     |
+| 9 (21/07)  | Aula 17 | Neural Networks                                     |
 |            | Aula 18 | Neural Networks                                     |
-| 10 (21/07) | Aula 19 | Unsupervised Learning & Manifold Hypothesis         |
+| 10 (23/07) | Aula 19 | Unsupervised Learning & Manifold Hypothesis         |
 |            | Aula 20 | Unsupervised Learning & Manifold Hypothesis         |
-| 11 (23/07) | Aula 21 | Advanced Topics + Wrap-Up                           |
+| 11 (25/07) | Aula 21 | Advanced Topics + Wrap-Up                           |
 |            | Aula 22 | Advanced Topics + Wrap-Up                           |
 
 ---

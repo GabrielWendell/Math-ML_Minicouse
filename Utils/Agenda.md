@@ -28,8 +28,8 @@
 |            | Aula 16 | Bias and Variance                                   |
 | 9 (21/07)  | Aula 17 | Neural Networks                                     |
 |            | Aula 18 | Neural Networks                                     |
-| 10 (23/07) | Aula 19 | Unsupervised Learning & Manifold Hypothesis         |
-|            | Aula 20 | Unsupervised Learning & Manifold Hypothesis         |
+| 10 (23/07) | Aula 19 | Convolutional Neural Networks & Cluster Analysis    |
+|            | Aula 20 | Convolutional Neural Networks & Cluster Analysis    |
 | 11 (25/07) | Aula 21 | Advanced Topics + Wrap-Up                           |
 |            | Aula 22 | Advanced Topics + Wrap-Up                           |
 

@@ -30,8 +30,8 @@
 |            | Aula 18 | Neural Networks                                     |
 | 10 (23/07) | Aula 19 | Convolutional Neural Networks & Cluster Analysis    |
 |            | Aula 20 | Convolutional Neural Networks & Cluster Analysis    |
-| 11 (25/07) | Aula 21 | Advanced Topics + Wrap-Up                           |
-|            | Aula 22 | Advanced Topics + Wrap-Up                           |
+| 11 (25/07) | Aula 21 | PINNs, DDPMs & Topological Data Analysis            |
+|            | Aula 22 | PINNs, DDPMs & Topological Data Analysis            |
 
 ---
 
